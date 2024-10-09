@@ -1,2 +1,2 @@
 # leetcode
-Enjoying leetcode tasks
+Enjoying leetcode problems
