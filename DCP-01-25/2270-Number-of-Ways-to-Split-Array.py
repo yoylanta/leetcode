@@ -1,12 +1,11 @@
 class Solution:
     def waysToSplitArray(self, nums: List[int]) -> int:
+        total=sum(nums)
         leftsum=0
-        rightsum=sum(nums)
         splits=0
         for i in range (len(nums)-1):
             leftsum+=nums[i]
-            rightsum-=nums[i]
-            if leftsum>=rightsum:
+            if leftsum>=(total - leftsum):
                 splits+=1
         return splits
         
