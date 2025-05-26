@@ -11,6 +11,7 @@ This repository contains my solutions to LeetCode problems.
 ## Hash Table
 |  |
 | ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/yoylanta/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/yoylanta/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## String
 |  |
@@ -23,5 +24,22 @@ This repository contains my solutions to LeetCode problems.
 ## Counting
 |  |
 | ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/yoylanta/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/yoylanta/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/yoylanta/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Graph
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/yoylanta/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/yoylanta/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Memoization
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/yoylanta/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->
