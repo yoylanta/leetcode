@@ -42,4 +42,8 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/yoylanta/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Math
+|  |
+| ------- |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/yoylanta/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 <!---LeetCode Topics End-->
