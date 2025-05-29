@@ -47,6 +47,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/yoylanta/leetcode/tree/master/0002-add-two-numbers) |
+| [0292-nim-game](https://github.com/yoylanta/leetcode/tree/master/0292-nim-game) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/yoylanta/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Tree
 |  |
@@ -79,4 +80,12 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yoylanta/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/yoylanta/leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/yoylanta/leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
