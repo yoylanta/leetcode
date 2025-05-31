@@ -8,6 +8,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yoylanta/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0945-snakes-and-ladders](https://github.com/yoylanta/leetcode/tree/master/0945-snakes-and-ladders) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/yoylanta/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## Hash Table
 |  |
@@ -64,6 +65,7 @@ This repository contains my solutions to LeetCode problems.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0945-snakes-and-ladders](https://github.com/yoylanta/leetcode/tree/master/0945-snakes-and-ladders) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/yoylanta/leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/yoylanta/leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Linked List
@@ -90,4 +92,8 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/yoylanta/leetcode/tree/master/0292-nim-game) |
+## Matrix
+|  |
+| ------- |
+| [0945-snakes-and-ladders](https://github.com/yoylanta/leetcode/tree/master/0945-snakes-and-ladders) |
 <!---LeetCode Topics End-->
