@@ -8,6 +8,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yoylanta/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0135-candy](https://github.com/yoylanta/leetcode/tree/master/0135-candy) |
 | [0945-snakes-and-ladders](https://github.com/yoylanta/leetcode/tree/master/0945-snakes-and-ladders) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/yoylanta/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## Hash Table
@@ -22,6 +23,7 @@ This repository contains my solutions to LeetCode problems.
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/yoylanta/leetcode/tree/master/0135-candy) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/yoylanta/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## Counting
 |  |
