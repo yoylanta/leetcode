@@ -133,4 +133,5 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/yoylanta/leetcode/tree/master/0386-lexicographical-numbers) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/yoylanta/leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 <!---LeetCode Topics End-->
