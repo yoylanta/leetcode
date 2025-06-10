@@ -18,6 +18,7 @@ This repository contains my solutions to LeetCode problems.
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/yoylanta/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/yoylanta/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/yoylanta/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/yoylanta/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## String
 |  |
 | ------- |
@@ -25,6 +26,7 @@ This repository contains my solutions to LeetCode problems.
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/yoylanta/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/yoylanta/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/yoylanta/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/yoylanta/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Greedy
 |  |
 | ------- |
@@ -36,6 +38,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/yoylanta/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/yoylanta/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/yoylanta/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Dynamic Programming
 |  |
 | ------- |
