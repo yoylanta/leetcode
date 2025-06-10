@@ -62,6 +62,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0002-add-two-numbers](https://github.com/yoylanta/leetcode/tree/master/0002-add-two-numbers) |
 | [0292-nim-game](https://github.com/yoylanta/leetcode/tree/master/0292-nim-game) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/yoylanta/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/yoylanta/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/yoylanta/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 ## Tree
@@ -137,4 +138,8 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/yoylanta/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/yoylanta/leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/yoylanta/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
