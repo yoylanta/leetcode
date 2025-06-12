@@ -12,6 +12,7 @@ This repository contains my solutions to LeetCode problems.
 | [0945-snakes-and-ladders](https://github.com/yoylanta/leetcode/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/yoylanta/leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/yoylanta/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/yoylanta/leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
 | ------- |
