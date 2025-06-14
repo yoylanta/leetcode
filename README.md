@@ -37,6 +37,7 @@ This repository contains my solutions to LeetCode problems.
 | [0135-candy](https://github.com/yoylanta/leetcode/tree/master/0135-candy) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/yoylanta/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/yoylanta/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/yoylanta/leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/yoylanta/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Counting
 |  |
@@ -68,6 +69,7 @@ This repository contains my solutions to LeetCode problems.
 | [0002-add-two-numbers](https://github.com/yoylanta/leetcode/tree/master/0002-add-two-numbers) |
 | [0292-nim-game](https://github.com/yoylanta/leetcode/tree/master/0292-nim-game) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/yoylanta/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/yoylanta/leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/yoylanta/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/yoylanta/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 ## Tree
