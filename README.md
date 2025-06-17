@@ -76,6 +76,7 @@ This repository contains my solutions to LeetCode problems.
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/yoylanta/leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/yoylanta/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/yoylanta/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/yoylanta/leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Tree
 |  |
 | ------- |
@@ -129,6 +130,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [3201-distribute-candies-among-children-ii](https://github.com/yoylanta/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/yoylanta/leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Enumeration
 |  |
 | ------- |
