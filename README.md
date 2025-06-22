@@ -82,6 +82,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/yoylanta/leetcode/tree/master/0002-add-two-numbers) |
+| [0069-sqrtx](https://github.com/yoylanta/leetcode/tree/master/0069-sqrtx) |
 | [0292-nim-game](https://github.com/yoylanta/leetcode/tree/master/0292-nim-game) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/yoylanta/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/yoylanta/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -121,6 +122,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yoylanta/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/yoylanta/leetcode/tree/master/0069-sqrtx) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/yoylanta/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Divide and Conquer
 |  |
