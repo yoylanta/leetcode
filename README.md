@@ -31,6 +31,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/yoylanta/leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/yoylanta/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/yoylanta/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/yoylanta/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/yoylanta/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -84,6 +85,7 @@ This repository contains my solutions to LeetCode problems.
 | [0002-add-two-numbers](https://github.com/yoylanta/leetcode/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/yoylanta/leetcode/tree/master/0069-sqrtx) |
 | [0292-nim-game](https://github.com/yoylanta/leetcode/tree/master/0292-nim-game) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/yoylanta/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/yoylanta/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/yoylanta/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/yoylanta/leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
