@@ -9,6 +9,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yoylanta/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0135-candy](https://github.com/yoylanta/leetcode/tree/master/0135-candy) |
+| [0605-can-place-flowers](https://github.com/yoylanta/leetcode/tree/master/0605-can-place-flowers) |
 | [0945-snakes-and-ladders](https://github.com/yoylanta/leetcode/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/yoylanta/leetcode/tree/master/0948-sort-an-array) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/yoylanta/leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -46,6 +47,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0135-candy](https://github.com/yoylanta/leetcode/tree/master/0135-candy) |
+| [0605-can-place-flowers](https://github.com/yoylanta/leetcode/tree/master/0605-can-place-flowers) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/yoylanta/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/yoylanta/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/yoylanta/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
