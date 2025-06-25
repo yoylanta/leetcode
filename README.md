@@ -15,6 +15,7 @@ This repository contains my solutions to LeetCode problems.
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/yoylanta/leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/yoylanta/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/yoylanta/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/yoylanta/leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/yoylanta/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/yoylanta/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/yoylanta/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -131,6 +132,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yoylanta/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/yoylanta/leetcode/tree/master/0069-sqrtx) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/yoylanta/leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/yoylanta/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Divide and Conquer
 |  |
