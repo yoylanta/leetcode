@@ -34,6 +34,7 @@ This repository contains my solutions to LeetCode problems.
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/yoylanta/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/yoylanta/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/yoylanta/leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/yoylanta/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -170,6 +171,7 @@ This repository contains my solutions to LeetCode problems.
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/yoylanta/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/yoylanta/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1894-merge-strings-alternately](https://github.com/yoylanta/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/yoylanta/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
