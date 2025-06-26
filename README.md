@@ -40,6 +40,7 @@ This repository contains my solutions to LeetCode problems.
 | [1894-merge-strings-alternately](https://github.com/yoylanta/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/yoylanta/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/yoylanta/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/yoylanta/leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/yoylanta/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/yoylanta/leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/yoylanta/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -54,6 +55,7 @@ This repository contains my solutions to LeetCode problems.
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/yoylanta/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/yoylanta/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/yoylanta/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/yoylanta/leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/yoylanta/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/yoylanta/leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/yoylanta/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -71,6 +73,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/yoylanta/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/yoylanta/leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Graph
 |  |
 | ------- |
@@ -85,6 +88,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/yoylanta/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/yoylanta/leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Math
 |  |
 | ------- |
