@@ -16,6 +16,7 @@ This repository contains my solutions to LeetCode problems.
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/yoylanta/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/yoylanta/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/yoylanta/leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/yoylanta/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/yoylanta/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/yoylanta/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/yoylanta/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -26,6 +27,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/yoylanta/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/yoylanta/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/yoylanta/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/yoylanta/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/yoylanta/leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -209,6 +211,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/yoylanta/leetcode/tree/master/0948-sort-an-array) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/yoylanta/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/yoylanta/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/yoylanta/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/yoylanta/leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -216,6 +219,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/yoylanta/leetcode/tree/master/0948-sort-an-array) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/yoylanta/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Merge Sort
 |  |
 | ------- |
