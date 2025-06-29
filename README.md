@@ -14,6 +14,7 @@ This repository contains my solutions to LeetCode problems.
 | [0948-sort-an-array](https://github.com/yoylanta/leetcode/tree/master/0948-sort-an-array) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/yoylanta/leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/yoylanta/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/yoylanta/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/yoylanta/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/yoylanta/leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/yoylanta/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -142,6 +143,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yoylanta/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/yoylanta/leetcode/tree/master/0069-sqrtx) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/yoylanta/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/yoylanta/leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/yoylanta/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Divide and Conquer
@@ -179,6 +181,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/yoylanta/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/yoylanta/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/yoylanta/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1894-merge-strings-alternately](https://github.com/yoylanta/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/yoylanta/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/yoylanta/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -211,6 +214,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/yoylanta/leetcode/tree/master/0948-sort-an-array) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/yoylanta/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/yoylanta/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/yoylanta/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/yoylanta/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
