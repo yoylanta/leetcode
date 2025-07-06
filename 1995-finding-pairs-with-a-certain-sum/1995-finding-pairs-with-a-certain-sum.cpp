@@ -2,9 +2,7 @@ class FindSumPairs {
 public:
     vector<int> nums1, nums2;
     unordered_map<int, int> freq;
-    FindSumPairs(vector<int>& nums1, vector<int>& nums2) {
-        this->nums1=nums1;
-        this->nums2=nums2;
+    FindSumPairs(vector<int>& nums1, vector<int>& nums2) : nums1(nums1), nums2(nums2){
         for(int i : this->nums2){
             freq[i]++;
         }
