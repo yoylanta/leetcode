@@ -10,6 +10,7 @@ This repository contains my solutions to LeetCode problems.
 | [0004-median-of-two-sorted-arrays](https://github.com/yoylanta/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0135-candy](https://github.com/yoylanta/leetcode/tree/master/0135-candy) |
 | [0238-product-of-array-except-self](https://github.com/yoylanta/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0334-increasing-triplet-subsequence](https://github.com/yoylanta/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0594-longest-harmonious-subsequence](https://github.com/yoylanta/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/yoylanta/leetcode/tree/master/0605-can-place-flowers) |
 | [0945-snakes-and-ladders](https://github.com/yoylanta/leetcode/tree/master/0945-snakes-and-ladders) |
@@ -65,6 +66,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0135-candy](https://github.com/yoylanta/leetcode/tree/master/0135-candy) |
+| [0334-increasing-triplet-subsequence](https://github.com/yoylanta/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/yoylanta/leetcode/tree/master/0605-can-place-flowers) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/yoylanta/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/yoylanta/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
